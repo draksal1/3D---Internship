@@ -32,3 +32,4 @@ This solution creates the application for rendering 3D objects based on the foll
 - ⇒ Windows Forms
 - ⇒ SharpDX 4.2.0, SharpDX.Direct3D11 4.2.0
 
+## Main task is the Grid Visualization
