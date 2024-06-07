@@ -42,3 +42,10 @@
 <h3>Пример 2:</h3>
 
 ![](Pictures/video1.gif)
+
+<h3>Стек:</h3>
+
+    ⇒ C# 7.3, .NET Framework 4.8
+    ⇒ Windows Forms
+    ⇒ SharpDX 4.2.0, SharpDX.Direct3D11 4.2.0
+
