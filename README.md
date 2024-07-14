@@ -33,3 +33,5 @@ This solution creates the application for rendering 3D objects based on the foll
 - ⇒ SharpDX 4.2.0, SharpDX.Direct3D11 4.2.0
 
 ## Main task is the Grid Visualization
+
+![](GridVisualization/Pictures/video2.gif)
